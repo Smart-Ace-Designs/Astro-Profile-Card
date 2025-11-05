@@ -4,7 +4,7 @@ import AppProfileCard from "@/components/AppProfileCard.vue";
 
 <template>
   <div
-    class="flex min-h-screen flex-wrap items-center justify-center gap-8 bg-gradient-to-br from-sky-300 to-sky-800"
+    class="flex min-h-screen flex-wrap items-center justify-center gap-8 bg-linear-to-br from-sky-300 to-sky-800"
   >
     <AppProfileCard
       profileimg="/profile.jpg"
