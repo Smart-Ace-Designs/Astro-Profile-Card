@@ -14,7 +14,7 @@
   "dependencies": {
     "@astrojs/vue": "5.1.4",
     "@tailwindcss/vite": "^4.2.0",
-    "astro": "5.17.2",
+    "astro": "5.17.3",
     "tailwindcss": "^4.2.0",
     "vue": "^3.5.28"
   },
